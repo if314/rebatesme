@@ -1,6 +1,16 @@
 
 .fit{
-    width: 40%;
+    width: 80%;
+  }
+  .fit5{
+    width: 50%;
+  }
+  .fitplus{
+    width: 100%;
+  }
+
+  .fit3{
+    width: 30%;
   }
   
   .mp-3{
@@ -12,5 +22,21 @@
     opacity: 0.8;
   }
   
-  
+  .bg-primary {
+    background-color: #04c25d !important;
+}
+a {
+    color: #04c25d;
+
+}
   /***must **/
+
+.text-primary {
+    color: #04c25d !important;
+}
+
+.code{
+    color:#999;
+background-color:#dadada;
+    padding: 1rem;
+}
