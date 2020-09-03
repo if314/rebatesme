@@ -27,7 +27,10 @@
 }
 a {
     color: #04c25d;
-
+}
+a:hover {
+    color: #20785c;
+    text-decoration: underline;
 }
   /***must **/
 
